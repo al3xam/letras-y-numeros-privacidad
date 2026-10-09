@@ -71,3 +71,5 @@ Actualizaremos esta página cuando cambien las funciones de la aplicación o sus
 ## Preferencia de acceso local
 
 La aplicación recuerda en el dispositivo si has entrado como invitado para mostrar el inicio en las siguientes aperturas. Esta preferencia no crea una cuenta ni se envía a un servidor propio. Puede formar parte de las copias de seguridad habituales de preferencias de iOS. El acceso con Apple todavía no está disponible.
+
+La preferencia de vibración de botones también se guarda localmente; no se envía a un servidor propio y puede formar parte de las copias de seguridad de preferencias de iOS.
