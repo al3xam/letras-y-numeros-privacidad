@@ -1,10 +1,10 @@
-# Política de privacidad — Palabras y Números
+# Política de privacidad — Palabras & Numeros
 
 Última actualización: 10 de octubre de 2026. Versión de la aplicación: 0.5.
 
 ## Responsable y contacto
 
-El responsable de Palabras y Números es Alejandro Amoros. Puedes contactar para consultas sobre privacidad o para ejercer tus derechos en [amoros.alejandro@gmail.com](mailto:amoros.alejandro@gmail.com). Esta política describe la versión 0.5 para iPhone y su publicidad mediante Google AdMob.
+El responsable de Palabras & Numeros es Alejandro Amoros. Puedes contactar para consultas sobre privacidad o para ejercer tus derechos en [amoros.alejandro@gmail.com](mailto:amoros.alejandro@gmail.com). Esta política describe la versión 0.5 para iPhone y su publicidad mediante Google AdMob.
 
 ## Datos del juego
 
@@ -56,7 +56,7 @@ Puedes reclamar ante la autoridad de protección de datos competente. En España
 
 ## Público general
 
-Palabras y Números está dirigida al público general y no se diseña ni se promociona específicamente para niños. Esta declaración no establece un mecanismo de verificación de edad ni sustituye la clasificación por edades de la tienda. Si consideras que un menor ha facilitado datos personales al responsable, contacta con el correo indicado para que podamos revisar el caso.
+Palabras & Numeros está dirigida al público general y no se diseña ni se promociona específicamente para niños. Esta declaración no establece un mecanismo de verificación de edad ni sustituye la clasificación por edades de la tienda. Si consideras que un menor ha facilitado datos personales al responsable, contacta con el correo indicado para que podamos revisar el caso.
 
 ## Esta página y los enlaces externos
 
